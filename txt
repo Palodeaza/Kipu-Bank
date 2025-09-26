@@ -1,0 +1,31 @@
+Remix deploy data:
+
+view on Etherscan view on Blockscout:https://sepolia.etherscan.io/tx/0x61327942cefa690cb8e0706122a9c9e50af796ed8d196ae9858dd1eea9ce9dea
+[block:9285905 txIndex:4]from: 0xa61...7a478to: kipubank.(constructor)value: 0 weidata: 0x60c...34000logs: 0hash: 0xd7b...3bae0
+
+status	0x1 Transaction mined and execution succeed
+
+transaction hash	0x61327942cefa690cb8e0706122a9c9e50af796ed8d196ae9858dd1eea9ce9dea
+
+block hash	0xd7b6716b8731ba2a528ef92319662e90aec15c669188228931ac49c496c3bae0
+
+block number	9285905
+
+contract address	0x9c37b11dd76202831981e15ab681207369fe3e9a
+
+from	0xa61d2A6820431cac603D63441FB06A12b447a478
+
+to	kipubank.(constructor)
+
+gas	779692 gas
+
+transaction cost	772395 gas 
+
+input	0x60c...34000
+decoded input	{
+	"uint256 _bankCap": "1000000000000000",
+	"uint256 _perTxWithdrawalLimit": "500000000000000"
+}
+decoded output	 - 
+logs	[]
+raw logs	[]
